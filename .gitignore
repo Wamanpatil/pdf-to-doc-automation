@@ -21,3 +21,6 @@ Thumbs.db
 # Build / temp files
 *.tmp
 *.bak
+# Generated Word files
+output/*.docx
+output/~$*.docx
